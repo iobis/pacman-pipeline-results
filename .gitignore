@@ -1,0 +1,17 @@
+*
+!.gitignore
+!/eDNAexpeditions
+/eDNAexpeditions/*
+!/eDNAexpeditions/runs
+/eDNAexpeditions/runs/*
+!/eDNAexpeditions/runs/Trial_allSamples_MiFish-UE
+/eDNAexpeditions/runs/Trial_allSamples_MiFish-UE/**
+!/eDNAexpeditions/runs/Trial_allSamples_MiFish-UE/03-dada2/
+!/eDNAexpeditions/runs/Trial_allSamples_MiFish-UE/03-dada2/rep-seqs.fna
+!/eDNAexpeditions/runs/Trial_allSamples_MiFish-UE/04-taxonomy/
+!/eDNAexpeditions/runs/Trial_allSamples_MiFish-UE/04-taxonomy/identity_filtered/
+!/eDNAexpeditions/runs/Trial_allSamples_MiFish-UE/04-taxonomy/identity_filtered/*
+!/eDNAexpeditions/runs/Trial_allSamples_MiFish-UE/04-taxonomy/blca/
+!/eDNAexpeditions/runs/Trial_allSamples_MiFish-UE/04-taxonomy/blca/*.blca.out.mod
+!/eDNAexpeditions/runs/Trial_allSamples_MiFish-UE/05-dwca/
+!/eDNAexpeditions/runs/Trial_allSamples_MiFish-UE/05-dwca/*

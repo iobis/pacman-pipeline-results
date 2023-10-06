@@ -1,0 +1,1358 @@
+rowname	sum.taxonomy
+asv.2	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.3	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.4	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.5	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Abudefduf;Abudefduf_bengalensis
+asv.6	Eukaryota;Chordata;Actinopteri;nan;Siganidae;Siganus;Siganus_fuscescens
+asv.7	Eukaryota;Chordata;Actinopteri;Beloniformes;Hemiramphidae;Hemiramphus;
+asv.8	Eukaryota;Chordata;Actinopteri;Blenniiformes;Labrisomidae;Malacoctenus;Malacoctenus_triangulatus
+asv.12	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.13	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;
+asv.14	Eukaryota;Chordata;Actinopteri;Acanthuriformes;Acanthuridae;Acanthurus;
+asv.15	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Craterocephalus;
+asv.18	Eukaryota;Chordata;Actinopteri;Blenniiformes;Blenniidae;Entomacrodus;Entomacrodus_caudofasciatus
+asv.21	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;
+asv.23	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Sparisoma;Sparisoma_axillare
+asv.24	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Syngnathidae;Syngnathus;
+asv.25	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.28	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;Monacanthus;Monacanthus_chinensis
+asv.29	Eukaryota;Chordata;Actinopteri;Carangiformes;Carangidae;Caranx;
+asv.30	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Pelates;Pelates_quadrilineatus
+asv.31	Eukaryota;Chordata;Actinopteri;nan;Opistognathidae;Opistognathus;
+asv.32	Eukaryota;Chordata;Actinopteri;Beloniformes;Hemiramphidae;Hemiramphus;Hemiramphus_far
+asv.33	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Atherinomorus;
+asv.34	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Craterocephalus;Craterocephalus_eyresii
+asv.35	Eukaryota;Chordata;Actinopteri;Anguilliformes;Anguillidae;Anguilla;Anguilla_anguilla
+asv.36	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Leiopotherapon;Leiopotherapon_unicolor
+asv.37	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;
+asv.38	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;
+asv.41	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Choerodon;Choerodon_schoenleinii
+asv.43	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.44	Eukaryota;Chordata;Actinopteri;Lutjaniformes;Haemulidae;Anisotremus;Anisotremus_scapularis
+asv.45	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Abudefduf;
+asv.46	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.47	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Clupea;Clupea_harengus
+asv.48	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;Scobinichthys;Scobinichthys_granulatus
+asv.82	Eukaryota;Chordata;Actinopteri;nan;Centropomidae;Psammoperca;Psammoperca_waigiensis
+asv.86	Eukaryota;Chordata;Actinopteri;Blenniiformes;Blenniidae;Omobranchus;Omobranchus_loxozonus
+asv.90	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Scarus;
+asv.67	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_ingenuua
+asv.69	Eukaryota;Chordata;Actinopteri;nan;Siganidae;Siganus;Siganus_fuscescens
+asv.70	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Abudefduf;
+asv.71	Eukaryota;Chordata;Actinopteri;Chaetodontiformes;Leiognathidae;;
+asv.73	Eukaryota;Chordata;Actinopteri;Blenniiformes;Blenniidae;Petroscirtes;Petroscirtes_breviceps
+asv.74	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Valenciennea;
+asv.77	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;;
+asv.78	Eukaryota;Chordata;Actinopteri;Blenniiformes;Tripterygiidae;;
+asv.79	Eukaryota;Chordata;Actinopteri;Beloniformes;Belonidae;;
+asv.50	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;;
+asv.53	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.56	Eukaryota;Chordata;Actinopteri;Perciformes;Cottidae;Myoxocephalus;
+asv.60	Eukaryota;Chordata;Actinopteri;Mugiliformes;Mugilidae;Mugil;Mugil_cephalus
+asv.61	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Scarus;
+asv.62	Eukaryota;Chordata;Actinopteri;Perciformes;Platycephalidae;Platycephalus;Platycephalus_indicus
+asv.63	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Tetraodontidae;Torquigener;Torquigener_pleurogramma
+asv.97	Eukaryota;Chordata;Actinopteri;Perciformes;Platycephalidae;;
+asv.99	Eukaryota;Chordata;Actinopteri;Salmoniformes;Salmonidae;Salmo;Salmo_trutta
+asv.100	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Choerodon;Choerodon_schoenleinii
+asv.102	Eukaryota;Chordata;Actinopteri;Beloniformes;Hemiramphidae;Hyporhamphus;Hyporhamphus_quoyi
+asv.103	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;;
+asv.104	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Atherinomorus;
+asv.110	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.111	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;
+asv.145	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Harengula;Harengula_jaguana
+asv.156	Eukaryota;Chordata;Chondrichthyes;Myliobatiformes;;;
+asv.160	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Pelates;Pelates_quadrilineatus
+asv.131	Eukaryota;Chordata;Actinopteri;;;;
+asv.132	Eukaryota;Chordata;Actinopteri;nan;Centropomidae;Psammoperca;Psammoperca_waigiensis
+asv.134	Eukaryota;Chordata;Actinopteri;Siluriformes;Plotosidae;Plotosus;Plotosus_canius
+asv.135	Eukaryota;Chordata;Actinopteri;Salmoniformes;Salmonidae;Oncorhynchus;
+asv.138	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Mullidae;Mulloidichthys;Mulloidichthys_vanicolensis
+asv.140	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Hypoatherina;
+asv.141	Eukaryota;Chordata;Actinopteri;Albuliformes;Albulidae;Albula;Albula_goreensis
+asv.162	Eukaryota;Chordata;Actinopteri;Perciformes;Platycephalidae;Cymbacephalus;Cymbacephalus_beauforti
+asv.169	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Neopomacentrus;Neopomacentrus_bankieri
+asv.171	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Syngnathidae;;
+asv.173	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;
+asv.175	Eukaryota;Chordata;Actinopteri;Acanthuriformes;Acanthuridae;Acanthurus;Acanthurus_bahianus
+asv.115	Eukaryota;Chordata;Actinopteri;Osmeriformes;Osmeridae;Osmerus;
+asv.117	Eukaryota;Chordata;Actinopteri;Spariformes;Nemipteridae;Parascolopsis;
+asv.119	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.120	Eukaryota;Chordata;Actinopteri;Perciformes;Zoarcidae;Zoarces;Zoarces_elongatus
+asv.123	Eukaryota;Chordata;Actinopteri;Spariformes;Sparidae;Rhabdosargus;
+asv.124	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.125	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.212	Eukaryota;Chordata;Actinopteri;Perciformes;Zoarcidae;Zoarces;Zoarces_elongatus
+asv.219	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;;
+asv.223	Eukaryota;Chordata;Actinopteri;;;;
+asv.224	Eukaryota;Chordata;Actinopteri;nan;Sphyraenidae;Sphyraena;Sphyraena_obtusata
+asv.178	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.179	Eukaryota;Chordata;Actinopteri;;;;
+asv.182	Eukaryota;Chordata;Actinopteri;;;;
+asv.186	Eukaryota;Chordata;Actinopteri;Uranoscopiformes;Ammodytidae;Ammodytes;
+asv.192	Eukaryota;Chordata;Actinopteri;Cypriniformes;Leuciscidae;Scardinius;Scardinius_erythrophthalmus
+asv.195	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;
+asv.196	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Clupea;Clupea_harengus
+asv.197	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Clupea;Clupea_harengus
+asv.200	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Clupea;Clupea_harengus
+asv.201	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.202	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Herklotsichthys;Herklotsichthys_quadrimaculatus
+asv.205	Eukaryota;Chordata;Actinopteri;Perciformes;Percidae;Perca;Perca_fluviatilis
+asv.229	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.232	Eukaryota;Chordata;Actinopteri;Perciformes;Pholidae;Pholis;
+asv.235	Eukaryota;Chordata;Actinopteri;Carangiformes;Carangidae;Caranx;Caranx_crysos
+asv.237	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.238	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;
+asv.239	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.241	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Choerodon;Choerodon_schoenleinii
+asv.243	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;
+asv.244	Eukaryota;Chordata;Actinopteri;Kurtiformes;Apogonidae;;
+asv.245	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Clupea;
+asv.247	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.248	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Amblygobius;Amblygobius_phalaena
+asv.250	Eukaryota;Chordata;Actinopteri;;;;
+asv.252	Eukaryota;Chordata;Actinopteri;Spariformes;Nemipteridae;Pentapodus;Pentapodus_setosus
+asv.254	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Hemigymnus;Hemigymnus_melapterus
+asv.257	Eukaryota;Chordata;Actinopteri;Lutjaniformes;Haemulidae;;
+asv.258	Eukaryota;Chordata;Actinopteri;;;;
+asv.259	Eukaryota;Chordata;Actinopteri;Beloniformes;Hemiramphidae;Hyporhamphus;Hyporhamphus_quoyi
+asv.260	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Abudefduf;Abudefduf_bengalensis
+asv.265	Eukaryota;Chordata;Actinopteri;Anguilliformes;Muraenidae;Gymnothorax;Gymnothorax_vicinus
+asv.267	Eukaryota;Chordata;Actinopteri;Mugiliformes;Mugilidae;Chelon;
+asv.268	Eukaryota;Chordata;Actinopteri;Gadiformes;Lotidae;Ciliata;Ciliata_mustela
+asv.269	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Eviota;
+asv.271	Eukaryota;Chordata;Actinopteri;Gerreiformes;Gerreidae;Gerres;
+asv.272	Eukaryota;Chordata;Actinopteri;nan;Sphyraenidae;Sphyraena;
+asv.273	Eukaryota;Chordata;Actinopteri;nan;Pomacanthidae;Chaetodontoplus;
+asv.274	Eukaryota;Chordata;Actinopteri;Gerreiformes;Gerreidae;Gerres;
+asv.275	Eukaryota;Chordata;Actinopteri;Perciformes;Tetrarogidae;Paracentropogon;Paracentropogon_longispinis
+asv.276	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;;
+asv.281	Eukaryota;Chordata;Actinopteri;Beloniformes;Belonidae;Strongylura;Strongylura_anastomella
+asv.282	Eukaryota;Chordata;Actinopteri;;;;
+asv.286	Eukaryota;Chordata;Actinopteri;Lutjaniformes;Haemulidae;Plectorhinchus;Plectorhinchus_flavomaculatus
+asv.288	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.289	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;
+asv.290	Eukaryota;Chordata;Actinopteri;nan;Sphyraenidae;Sphyraena;Sphyraena_obtusata
+asv.292	Eukaryota;Chordata;Actinopteri;;;;
+asv.294	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.295	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.298	Eukaryota;Chordata;Actinopteri;Salmoniformes;Salmonidae;Salmo;Salmo_salar
+asv.303	Eukaryota;Chordata;Actinopteri;Blenniiformes;Tripterygiidae;Helcogramma;Helcogramma_striata
+asv.304	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Callionymidae;;
+asv.305	Eukaryota;Chordata;Actinopteri;Beloniformes;Belonidae;;
+asv.306	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.307	Eukaryota;Chordata;Chondrichthyes;Rhinopristiformes;Rhynchobatidae;Rhynchobatus;
+asv.308	Eukaryota;Chordata;Actinopteri;Perciformes;Platycephalidae;Inegocia;Inegocia_japonica
+asv.309	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Pteragogus;
+asv.310	Eukaryota;Chordata;Chondrichthyes;Carcharhiniformes;Carcharhinidae;Carcharhinus;
+asv.312	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;Chaetodermis;Chaetodermis_penicilligerus
+asv.314	Eukaryota;Chordata;Chondrichthyes;Myliobatiformes;Myliobatidae;Mobula;
+asv.320	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.337	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Choerodon;Choerodon_schoenleinii
+asv.338	Eukaryota;Chordata;Actinopteri;Scombriformes;Pomatomidae;Pomatomus;Pomatomus_saltatrix
+asv.340	Eukaryota;Chordata;Chondrichthyes;Myliobatiformes;Myliobatidae;Aetobatus;Aetobatus_narinari
+asv.342	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.345	Eukaryota;Chordata;Actinopteri;Anguilliformes;Congridae;;
+asv.348	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Bothidae;Engyprosopon;
+asv.349	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.351	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.352	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.321	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Thalassoma;
+asv.324	Eukaryota;Chordata;Actinopteri;Perciformes;Serranidae;Cephalopholis;
+asv.325	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.326	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.327	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Callionymidae;Callionymus;Callionymus_enneactis
+asv.328	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.329	Eukaryota;Chordata;Actinopteri;Spariformes;Sparidae;;
+asv.331	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.332	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.333	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Nematalosa;
+asv.334	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Soleidae;Liachirus;Liachirus_melanospilos
+asv.335	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.353	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.355	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.356	Eukaryota;Chordata;Actinopteri;Salmoniformes;Salmonidae;Oncorhynchus;
+asv.357	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.359	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.360	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Pegasidae;Pegasus;Pegasus_volitans
+asv.362	Eukaryota;Chordata;Actinopteri;Scombriformes;Scombridae;Rastrelliger;
+asv.363	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.364	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Yongeichthys;Yongeichthys_criniger
+asv.367	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.387	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.388	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.389	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.392	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.394	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Scophthalmidae;Scophthalmus;Scophthalmus_maximus
+asv.395	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;
+asv.396	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.399	Eukaryota;Chordata;Actinopteri;Beloniformes;Belonidae;Tylosurus;
+asv.370	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;;
+asv.372	Eukaryota;Chordata;Actinopteri;Perciformes;Zoarcidae;Zoarces;Zoarces_elongatus
+asv.374	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.375	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.376	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.377	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.378	Eukaryota;Chordata;Actinopteri;;;;
+asv.379	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.380	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;;
+asv.381	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;Pomatoschistus_knerii
+asv.382	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.384	Eukaryota;Chordata;Actinopteri;Gerreiformes;Gerreidae;Gerres;
+asv.417	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.420	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.421	Eukaryota;Chordata;Actinopteri;Salmoniformes;Salmonidae;Oncorhynchus;
+asv.424	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.425	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.430	Eukaryota;Chordata;Actinopteri;Siluriformes;;;
+asv.432	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.401	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Callionymidae;;
+asv.403	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;;
+asv.404	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.406	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.407	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.409	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.410	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.412	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.414	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.416	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.434	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.435	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.436	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.437	Eukaryota;Chordata;Actinopteri;;;;
+asv.438	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.441	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.442	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.443	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.447	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.467	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Atherinomorus;
+asv.470	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;;
+asv.474	Eukaryota;Chordata;Actinopteri;Kurtiformes;Apogonidae;Ostorhinchus;
+asv.476	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.479	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.482	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.483	Eukaryota;Chordata;Actinopteri;Siluriformes;Ariidae;Netuma;Netuma_thalassina
+asv.485	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;Halichoeres_radiatus
+asv.486	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Syngnathidae;Syngnathus;
+asv.489	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.490	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.493	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.495	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;Monacanthus;Monacanthus_chinensis
+asv.497	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.504	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.506	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.510	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;;
+asv.449	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.450	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.451	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.452	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.453	Eukaryota;Chordata;Actinopteri;Anguilliformes;Anguillidae;Anguilla;Anguilla_anguilla
+asv.454	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.456	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.458	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.459	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.462	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.463	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.546	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.547	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.555	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.559	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.529	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.533	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.534	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.543	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.515	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.517	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.518	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.519	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.521	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.523	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Mullidae;Mulloidichthys;
+asv.524	Eukaryota;Chordata;Chondrichthyes;Myliobatiformes;Dasyatidae;;
+asv.526	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;;
+asv.527	Eukaryota;Chordata;Actinopteri;nan;Siganidae;Siganus;Siganus_fuscescens
+asv.562	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.565	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.568	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.571	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.574	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.576	Eukaryota;Chordata;Chondrichthyes;Myliobatiformes;Dasyatidae;;
+asv.593	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Abudefduf;Abudefduf_bengalensis
+asv.596	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.597	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;;
+asv.599	Eukaryota;Chordata;Actinopteri;Perciformes;Percidae;Perca;Perca_fluviatilis
+asv.607	Eukaryota;Chordata;Actinopteri;Blenniiformes;Blenniidae;Entomacrodus;Entomacrodus_caudofasciatus
+asv.608	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.577	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.578	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.581	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.582	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.584	Eukaryota;Chordata;Actinopteri;nan;Siganidae;Siganus;Siganus_fuscescens
+asv.588	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Choerodon;Choerodon_schoenleinii
+asv.589	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.625	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.626	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Abudefduf;Abudefduf_bengalensis
+asv.627	Eukaryota;Chordata;Actinopteri;nan;Siganidae;Siganus;Siganus_fuscescens
+asv.630	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.631	Eukaryota;Chordata;Actinopteri;Anguilliformes;Anguillidae;Anguilla;Anguilla_anguilla
+asv.632	Eukaryota;Chordata;Actinopteri;Blenniiformes;Blenniidae;Entomacrodus;Entomacrodus_caudofasciatus
+asv.635	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.658	Eukaryota;Chordata;Actinopteri;Blenniiformes;Labrisomidae;Malacoctenus;Malacoctenus_triangulatus
+asv.659	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.660	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.665	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.668	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.672	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.642	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.643	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.645	Eukaryota;Chordata;Actinopteri;Beloniformes;Hemiramphidae;Hemiramphus;
+asv.646	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.647	Eukaryota;Chordata;Actinopteri;nan;Siganidae;Siganus;Siganus_fuscescens
+asv.649	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.650	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.655	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.692	Eukaryota;Chordata;Actinopteri;Acanthuriformes;Acanthuridae;Acanthurus;
+asv.693	Eukaryota;Chordata;Actinopteri;Blenniiformes;Blenniidae;Entomacrodus;Entomacrodus_caudofasciatus
+asv.697	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.703	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.674	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.675	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;;
+asv.677	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.680	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.682	Eukaryota;Chordata;Actinopteri;nan;Centropomidae;Psammoperca;Psammoperca_waigiensis
+asv.683	Eukaryota;Chordata;Actinopteri;Blenniiformes;Labrisomidae;Malacoctenus;Malacoctenus_triangulatus
+asv.685	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Syngnathidae;Syngnathus;
+asv.686	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.705	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Abudefduf;Abudefduf_bengalensis
+asv.706	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.707	Eukaryota;Chordata;Actinopteri;Beloniformes;Hemiramphidae;Hemiramphus;
+asv.708	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.710	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.714	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.715	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.717	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;;
+asv.719	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Abudefduf;Abudefduf_bengalensis
+asv.720	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;
+asv.722	Eukaryota;Chordata;Actinopteri;nan;Siganidae;Siganus;Siganus_fuscescens
+asv.723	Eukaryota;Chordata;Actinopteri;Blenniiformes;Blenniidae;Entomacrodus;Entomacrodus_caudofasciatus
+asv.724	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.726	Eukaryota;Chordata;Actinopteri;Beloniformes;Hemiramphidae;Hemiramphus;
+asv.728	Eukaryota;Chordata;Actinopteri;Blenniiformes;Blenniidae;Scartella;
+asv.729	Eukaryota;Chordata;Actinopteri;Blenniiformes;Blenniidae;Entomacrodus;Entomacrodus_caudofasciatus
+asv.730	Eukaryota;Chordata;Actinopteri;Blenniiformes;Labrisomidae;Malacoctenus;Malacoctenus_triangulatus
+asv.732	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.735	Eukaryota;Chordata;Actinopteri;;;;
+asv.740	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.741	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.745	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.746	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.748	Eukaryota;Chordata;Actinopteri;Acanthuriformes;Acanthuridae;Acanthurus;Acanthurus_bahianus
+asv.749	Eukaryota;Chordata;Actinopteri;Salmoniformes;Salmonidae;Oncorhynchus;
+asv.750	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.751	Eukaryota;Chordata;Actinopteri;;;;
+asv.771	Eukaryota;Chordata;Actinopteri;Acanthuriformes;Acanthuridae;Acanthurus;
+asv.774	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.777	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Craterocephalus;
+asv.778	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.781	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.783	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;
+asv.753	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.754	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Abudefduf;Abudefduf_bengalensis
+asv.755	Eukaryota;Chordata;Actinopteri;Albuliformes;Albulidae;Albula;Albula_goreensis
+asv.758	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.760	Eukaryota;Chordata;Actinopteri;Blenniiformes;Labrisomidae;Malacoctenus;Malacoctenus_triangulatus
+asv.761	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Soleidae;Solea;Solea_solea
+asv.765	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Syngnathidae;Syngnathus;
+asv.766	Eukaryota;Chordata;Actinopteri;Perciformes;Platycephalidae;Platycephalus;
+asv.767	Eukaryota;Chordata;Actinopteri;Blenniiformes;Labrisomidae;Malacoctenus;Malacoctenus_triangulatus
+asv.787	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Abudefduf;Abudefduf_bengalensis
+asv.789	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Syngnathidae;Syngnathus;
+asv.790	Eukaryota;Chordata;Actinopteri;Acanthuriformes;Acanthuridae;Acanthurus;Acanthurus_bahianus
+asv.795	Eukaryota;Chordata;Actinopteri;nan;Siganidae;Siganus;Siganus_fuscescens
+asv.796	Eukaryota;Chordata;Actinopteri;Carangiformes;Carangidae;Caranx;
+asv.798	Eukaryota;Chordata;Actinopteri;Carangiformes;Carangidae;Caranx;
+asv.800	Eukaryota;Chordata;Actinopteri;nan;Siganidae;Siganus;Siganus_fuscescens
+asv.802	Eukaryota;Chordata;Actinopteri;Anguilliformes;Anguillidae;Anguilla;Anguilla_anguilla
+asv.803	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Sparisoma;Sparisoma_axillare
+asv.804	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.805	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Sparisoma;Sparisoma_axillare
+asv.806	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Sparisoma;Sparisoma_axillare
+asv.807	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Craterocephalus;
+asv.809	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Craterocephalus;
+asv.810	Eukaryota;Chordata;Actinopteri;Carangiformes;Carangidae;Caranx;
+asv.813	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.814	Eukaryota;Chordata;Actinopteri;;;;
+asv.817	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.820	Eukaryota;Chordata;Actinopteri;nan;Siganidae;Siganus;Siganus_fuscescens
+asv.821	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.823	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.824	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Sparisoma;Sparisoma_axillare
+asv.826	Eukaryota;Chordata;Actinopteri;;;;
+asv.827	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.830	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.867	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Craterocephalus;
+asv.868	Eukaryota;Chordata;Actinopteri;Acanthuriformes;Acanthuridae;Acanthurus;
+asv.876	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;Monacanthus;Monacanthus_chinensis
+asv.880	Eukaryota;Chordata;Actinopteri;Carangiformes;Carangidae;Caranx;
+asv.833	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;
+asv.836	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Sparisoma;Sparisoma_axillare
+asv.838	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.839	Eukaryota;Chordata;Actinopteri;;;;
+asv.841	Eukaryota;Chordata;Actinopteri;Albuliformes;Albulidae;Albula;Albula_goreensis
+asv.842	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Neopomacentrus;Neopomacentrus_bankieri
+asv.843	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Abudefduf;Abudefduf_bengalensis
+asv.846	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.847	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;
+asv.849	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.852	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;
+asv.853	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;
+asv.857	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Craterocephalus;
+asv.858	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Sparisoma;Sparisoma_axillare
+asv.859	Eukaryota;Chordata;Actinopteri;Acanthuriformes;Acanthuridae;Acanthurus;Acanthurus_bahianus
+asv.860	Eukaryota;Chordata;Actinopteri;Acanthuriformes;Acanthuridae;Acanthurus;
+asv.862	Eukaryota;Chordata;Actinopteri;Gerreiformes;Gerreidae;Gerres;
+asv.864	Eukaryota;Chordata;Actinopteri;Acanthuriformes;Acanthuridae;Acanthurus;Acanthurus_bahianus
+asv.897	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Sparisoma;Sparisoma_axillare
+asv.905	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Sparisoma;Sparisoma_axillare
+asv.906	Eukaryota;Chordata;Actinopteri;;;;
+asv.907	Eukaryota;Chordata;Actinopteri;Beloniformes;Hemiramphidae;Hemiramphus;Hemiramphus_far
+asv.909	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.910	Eukaryota;Chordata;Actinopteri;Anguilliformes;Anguillidae;Anguilla;Anguilla_anguilla
+asv.911	Eukaryota;Chordata;Actinopteri;Beloniformes;Hemiramphidae;Hemiramphus;Hemiramphus_far
+asv.881	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Craterocephalus;
+asv.882	Eukaryota;Chordata;Actinopteri;Cypriniformes;Leuciscidae;Scardinius;Scardinius_erythrophthalmus
+asv.883	Eukaryota;Chordata;Actinopteri;Blenniiformes;Blenniidae;Entomacrodus;Entomacrodus_caudofasciatus
+asv.884	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.886	Eukaryota;Chordata;Actinopteri;Uranoscopiformes;Ammodytidae;Ammodytes;
+asv.889	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;
+asv.891	Eukaryota;Chordata;Actinopteri;Carangiformes;Carangidae;Caranx;
+asv.892	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.895	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Pelates;Pelates_quadrilineatus
+asv.915	Eukaryota;Chordata;Actinopteri;Salmoniformes;Salmonidae;Salmo;Salmo_trutta
+asv.916	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.917	Eukaryota;Chordata;Actinopteri;;;;
+asv.919	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.920	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;
+asv.921	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.925	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;
+asv.927	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.928	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.930	Eukaryota;Chordata;Actinopteri;Salmoniformes;Salmonidae;Salmo;Salmo_trutta
+asv.933	Eukaryota;Chordata;Actinopteri;Albuliformes;Albulidae;Albula;Albula_goreensis
+asv.934	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.936	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Pelates;Pelates_quadrilineatus
+asv.977	Eukaryota;Chordata;Actinopteri;Anguilliformes;Anguillidae;Anguilla;Anguilla_anguilla
+asv.982	Eukaryota;Chordata;Actinopteri;Perciformes;Zoarcidae;Zoarces;Zoarces_elongatus
+asv.989	Eukaryota;Chordata;Actinopteri;nan;Siganidae;Siganus;Siganus_fuscescens
+asv.992	Eukaryota;Chordata;Actinopteri;Salmoniformes;Salmonidae;Oncorhynchus;
+asv.945	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;
+asv.946	Eukaryota;Chordata;Actinopteri;Salmoniformes;Salmonidae;Oncorhynchus;
+asv.947	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Mullidae;Mulloidichthys;
+asv.948	Eukaryota;Chordata;Actinopteri;Beloniformes;Hemiramphidae;Hemiramphus;Hemiramphus_far
+asv.949	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.952	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Atherinomorus;
+asv.957	Eukaryota;Chordata;Actinopteri;Blenniiformes;Blenniidae;Entomacrodus;Entomacrodus_caudofasciatus
+asv.959	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;Halichoeres_radiatus
+asv.960	Eukaryota;Chordata;Actinopteri;Carangiformes;Carangidae;Caranx;
+asv.961	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.963	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Choerodon;Choerodon_schoenleinii
+asv.965	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.966	Eukaryota;Chordata;Actinopteri;Albuliformes;Albulidae;Albula;Albula_goreensis
+asv.969	Eukaryota;Chordata;Actinopteri;Acanthuriformes;Acanthuridae;Acanthurus;
+asv.971	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Atherinomorus;
+asv.972	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.975	Eukaryota;Chordata;Actinopteri;Anguilliformes;Anguillidae;Anguilla;Anguilla_anguilla
+asv.1013	Eukaryota;Chordata;Actinopteri;Lutjaniformes;Haemulidae;Anisotremus;Anisotremus_scapularis
+asv.1017	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.1022	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Soleidae;Liachirus;Liachirus_melanospilos
+asv.1023	Eukaryota;Chordata;Actinopteri;Lutjaniformes;Haemulidae;Anisotremus;Anisotremus_scapularis
+asv.993	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Abudefduf;
+asv.998	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;
+asv.1002	Eukaryota;Chordata;Actinopteri;Albuliformes;Albulidae;Albula;Albula_goreensis
+asv.1003	Eukaryota;Chordata;Actinopteri;nan;Siganidae;Siganus;Siganus_fuscescens
+asv.1004	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.1005	Eukaryota;Chordata;Actinopteri;Mugiliformes;Mugilidae;Chelon;
+asv.1045	Eukaryota;Chordata;Actinopteri;Lutjaniformes;Haemulidae;Anisotremus;Anisotremus_scapularis
+asv.1047	Eukaryota;Chordata;Actinopteri;Perciformes;Pholidae;Pholis;
+asv.1052	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.1055	Eukaryota;Chordata;Actinopteri;Albuliformes;Albulidae;Albula;Albula_goreensis
+asv.1056	Eukaryota;Chordata;Actinopteri;nan;Pomacanthidae;Chaetodontoplus;
+asv.1030	Eukaryota;Chordata;Actinopteri;Albuliformes;Albulidae;Albula;Albula_goreensis
+asv.1033	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.1038	Eukaryota;Chordata;Actinopteri;nan;Siganidae;Siganus;Siganus_fuscescens
+asv.1040	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.1057	Eukaryota;Chordata;Chondrichthyes;Myliobatiformes;Dasyatidae;Pastinachus;Pastinachus_sephen
+asv.1059	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.1060	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Syngnathidae;Syngnathus;
+asv.1062	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.1064	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;
+asv.1066	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Abudefduf;Abudefduf_bengalensis
+asv.1067	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Abudefduf;Abudefduf_bengalensis
+asv.1068	Eukaryota;Chordata;Actinopteri;Spariformes;;;
+asv.1070	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.1073	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;;
+asv.1075	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.1079	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.1083	Eukaryota;Chordata;Actinopteri;Carangiformes;Carangidae;Caranx;
+asv.1085	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Leiopotherapon;Leiopotherapon_unicolor
+asv.1135	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;;
+asv.1136	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Pelates;Pelates_quadrilineatus
+asv.1090	Eukaryota;Chordata;Actinopteri;Albuliformes;Albulidae;Albula;Albula_goreensis
+asv.1091	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Syngnathidae;Syngnathus;
+asv.1092	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Clupea;Clupea_harengus
+asv.1096	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Clupea;Clupea_harengus
+asv.1097	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Clupea;Clupea_harengus
+asv.1103	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;;
+asv.1105	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Pelates;Pelates_quadrilineatus
+asv.1106	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;
+asv.1107	Eukaryota;Chordata;Actinopteri;Salmoniformes;Salmonidae;Salmo;Salmo_trutta
+asv.1112	Eukaryota;Chordata;Actinopteri;nan;Centropomidae;Psammoperca;Psammoperca_waigiensis
+asv.1142	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.1144	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;Monacanthus;Monacanthus_chinensis
+asv.1150	Eukaryota;Chordata;Chondrichthyes;Myliobatiformes;Myliobatidae;Aetobatus;Aetobatus_narinari
+asv.1151	Eukaryota;Chordata;Actinopteri;Perciformes;Pholidae;Pholis;
+asv.1153	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.1156	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Craterocephalus;
+asv.1157	Eukaryota;Chordata;Actinopteri;Beloniformes;Hemiramphidae;Hyporhamphus;
+asv.1166	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;
+asv.1167	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Mullidae;Mulloidichthys;Mulloidichthys_vanicolensis
+asv.1168	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Thalassoma;
+asv.1169	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Craterocephalus;
+asv.1170	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;
+asv.1171	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Pelates;Pelates_quadrilineatus
+asv.1174	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;
+asv.1175	Eukaryota;Chordata;Actinopteri;Syngnathiformes;Mullidae;Mulloidichthys;Mulloidichthys_vanicolensis
+asv.1177	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Clupea;Clupea_harengus
+asv.1179	Eukaryota;Chordata;Actinopteri;Siluriformes;;;
+asv.1184	Eukaryota;Chordata;Chondrichthyes;Myliobatiformes;;;
+asv.1205	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Pelates;Pelates_quadrilineatus
+asv.1207	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.1208	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;Sillago_cf._sihama_JYP570
+asv.1209	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Pelates;Pelates_quadrilineatus
+asv.1211	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.1213	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.1188	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;
+asv.1192	Eukaryota;Chordata;Actinopteri;Beloniformes;Hemiramphidae;Hyporhamphus;
+asv.1194	Eukaryota;Chordata;Actinopteri;Albuliformes;Albulidae;Albula;Albula_goreensis
+asv.1195	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;;
+asv.1197	Eukaryota;Chordata;Actinopteri;Salmoniformes;Salmonidae;Oncorhynchus;
+asv.1200	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;
+asv.1253	Eukaryota;Chordata;Actinopteri;nan;Sillaginidae;Sillago;
+asv.1260	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.1240	Eukaryota;Chordata;Actinopteri;Acanthuriformes;Acanthuridae;Acanthurus;Acanthurus_bahianus
+asv.1245	Eukaryota;Chordata;Actinopteri;Albuliformes;Albulidae;Albula;Albula_goreensis
+asv.1266	Eukaryota;Chordata;Actinopteri;Kurtiformes;Apogonidae;;
+asv.1268	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Abudefduf;Abudefduf_bengalensis
+asv.1270	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Eviota;
+asv.1271	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Clupea;Clupea_harengus
+asv.1277	Eukaryota;Chordata;Actinopteri;Salmoniformes;Salmonidae;Salmo;
+asv.1279	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.1217	Eukaryota;Chordata;Actinopteri;Beloniformes;Belonidae;Tylosurus;
+asv.1218	Eukaryota;Chordata;Actinopteri;Albuliformes;Albulidae;Albula;Albula_goreensis
+asv.1219	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Pelates;Pelates_quadrilineatus
+asv.1221	Eukaryota;Chordata;Actinopteri;Blenniiformes;Tripterygiidae;;
+asv.1223	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;
+asv.1224	Eukaryota;Chordata;Actinopteri;Beloniformes;Belonidae;;
+asv.1226	Eukaryota;Chordata;Actinopteri;Perciformes;Cottidae;Myoxocephalus;
+asv.1228	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;
+asv.1297	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.1298	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;Halichoeres_radiatus
+asv.1300	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Clupea;Clupea_harengus
+asv.1341	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Pomatoschistus;
+asv.1344	Eukaryota;Chordata;Actinopteri;Siluriformes;;;
+asv.1319	Eukaryota;Chordata;Actinopteri;nan;Siganidae;Siganus;Siganus_fuscescens
+asv.1325	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;;
+asv.1281	Eukaryota;Chordata;Actinopteri;Gerreiformes;Gerreidae;Gerres;
+asv.1282	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.1284	Eukaryota;Chordata;Actinopteri;Beloniformes;Belonidae;Tylosurus;
+asv.1287	Eukaryota;Chordata;Actinopteri;Perciformes;Percidae;Perca;Perca_fluviatilis
+asv.1289	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;;
+asv.1292	Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;;
+asv.1294	Eukaryota;Chordata;Actinopteri;Blenniiformes;Gobiesocidae;Lepadichthys;Lepadichthys_frenatus
+asv.1296	Eukaryota;Chordata;Actinopteri;Albuliformes;Albulidae;Albula;Albula_goreensis
+asv.1379	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Terapon;Terapon_theraps
+asv.1386	Eukaryota;Chordata;Chondrichthyes;Carcharhiniformes;Hemigaleidae;Hemipristis;Hemipristis_elongata
+asv.1392	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Terapon;Terapon_theraps
+asv.1345	Eukaryota;Chordata;Actinopteri;Gerreiformes;Gerreidae;Gerres;
+asv.1346	Eukaryota;Chordata;Actinopteri;Gerreiformes;Gerreidae;Gerres;
+asv.1347	Eukaryota;Chordata;Actinopteri;nan;Siganidae;Siganus;Siganus_fuscescens
+asv.1351	Eukaryota;Chordata;Actinopteri;nan;Pomacanthidae;Chaetodontoplus;Chaetodontoplus_mesoleucus
+asv.1354	Eukaryota;Chordata;Actinopteri;Spariformes;Lethrinidae;Lethrinus;Lethrinus_laticaudis
+asv.1355	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Leiopotherapon;Leiopotherapon_unicolor
+asv.1362	Eukaryota;Chordata;Actinopteri;Gerreiformes;Gerreidae;Gerres;
+asv.1363	Eukaryota;Chordata;Actinopteri;Atheriniformes;Atherinidae;Craterocephalus;
+asv.1366	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;Scobinichthys;Scobinichthys_granulatus
+asv.1371	Eukaryota;Chordata;Actinopteri;Carangiformes;Carangidae;Caranx;
+asv.1372	Eukaryota;Chordata;Chondrichthyes;Myliobatiformes;Dasyatidae;Himantura;Himantura_uarnak
+asv.1402	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Leiopotherapon;Leiopotherapon_unicolor
+asv.1412	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;Monacanthus;Monacanthus_chinensis
+asv.1422	Eukaryota;Chordata;Actinopteri;Spariformes;Lethrinidae;Lethrinus;Lethrinus_laticaudis
+asv.1424	Eukaryota;Chordata;Actinopteri;nan;Centropomidae;Psammoperca;Psammoperca_waigiensis
+asv.1426	Eukaryota;Chordata;Actinopteri;Perciformes;Percidae;Perca;Perca_fluviatilis
+asv.1432	Eukaryota;Chordata;Actinopteri;Perciformes;Percidae;Perca;Perca_fluviatilis
+asv.2714	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;Stegastes_partitus
+asv.2896	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;Stegastes_partitus
+asv.3059	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;Stegastes_partitus
+asv.3060	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;Stegastes_partitus
+asv.3090	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;Stegastes_partitus
+asv.3144	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;Stegastes_partitus
+asv.3117	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;Stegastes_partitus
+asv.3159	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;Stegastes_partitus
+asv.3218	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;Stegastes_partitus
+asv.3200	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;Stegastes_partitus
+asv.3911	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;Stegastes_partitus
+asv.4500	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;Stegastes_partitus
+asv.4644	Eukaryota;Chordata;Actinopteri;nan;Pomacentridae;Stegastes;Stegastes_partitus
+asv.6856	Eukaryota;Chordata;Actinopteri;Albuliformes;Albulidae;Albula;Albula_goreensis
+asv.9000	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;;
+asv.9955	Eukaryota;Chordata;Actinopteri;Albuliformes;Albulidae;Albula;Albula_goreensis
+asv.9976	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;Scobinichthys;Scobinichthys_granulatus
+asv.10029	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Pelates;Pelates_quadrilineatus
+asv.10180	Eukaryota;Chordata;Actinopteri;;;;
+asv.10453	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Terapontidae;Pelates;Pelates_quadrilineatus
+asv.10551	
+asv.6306	
+asv.9966	
+asv.4956	
+asv.6984	
+asv.2672	
+asv.10208	
+asv.3452	
+asv.3095	
+asv.4334	
+asv.7878	
+asv.10568	
+asv.2747	
+asv.9743	
+asv.8586	
+asv.9771	
+asv.9581	
+asv.8868	
+asv.10074	
+asv.8748	
+asv.6447	
+asv.7987	
+asv.2372	
+asv.2916	
+asv.8678	
+asv.10179	
+asv.9746	
+asv.9920	
+asv.3259	
+asv.3555	
+asv.9828	
+asv.9292	
+asv.3011	
+asv.8681	
+asv.2994	
+asv.2652	
+asv.2850	
+asv.9975	
+asv.3214	
+asv.10236	
+asv.10181	
+asv.4220	
+asv.10470	
+asv.4295	
+asv.3101	
+asv.3129	
+asv.8314	
+asv.1985	
+asv.10434	
+asv.10133	
+asv.10187	
+asv.2614	
+asv.7842	
+asv.7905	
+asv.2375	
+asv.10068	
+asv.2816	
+asv.10186	
+asv.3974	
+asv.2172	
+asv.10218	
+asv.2914	
+asv.2737	
+asv.3363	
+asv.9426	
+asv.4092	
+asv.9451	
+asv.3186	
+asv.3706	
+asv.3070	
+asv.10255	
+asv.3016	
+asv.3840	
+asv.9795	
+asv.2382	
+asv.9830	
+asv.3834	
+asv.3810	
+asv.2666	
+asv.3441	
+asv.3487	
+asv.3160	
+asv.7726	
+asv.5795	
+asv.9329	
+asv.9804	
+asv.8478	
+asv.10189	
+asv.3058	
+asv.6392	
+asv.9348	
+asv.5418	
+asv.4885	
+asv.3978	
+asv.4566	
+asv.3461	
+asv.6391	
+asv.2867	
+asv.9353	
+asv.2306	
+asv.3712	
+asv.8472	
+asv.2247	
+asv.8063	
+asv.2822	
+asv.10183	
+asv.10215	
+asv.9197	
+asv.3400	
+asv.5010	
+asv.3127	
+asv.9822	
+asv.6892	
+asv.10481	
+asv.3047	
+asv.8498	
+asv.10199	
+asv.10003	
+asv.3777	
+asv.8686	
+asv.3420	
+asv.2939	
+asv.3459	
+asv.8159	
+asv.6404	
+asv.7986	
+asv.10234	
+asv.2368	
+asv.9124	
+asv.6039	
+asv.9750	
+asv.7479	
+asv.9710	
+asv.10048	
+asv.10526	
+asv.4738	
+asv.1769	
+asv.2527	
+asv.4059	
+asv.5804	
+asv.3836	
+asv.2687	
+asv.8696	
+asv.8042	
+asv.9585	
+asv.9801	
+asv.10228	
+asv.3172	
+asv.9615	
+asv.4971	
+asv.7214	
+asv.5512	
+asv.9421	
+asv.2987	
+asv.3111	
+asv.10016	
+asv.9783	
+asv.9749	
+asv.8562	
+asv.9807	
+asv.2971	
+asv.6729	
+asv.2499	
+asv.4841	
+asv.2600	
+asv.3764	
+asv.3108	
+asv.10070	
+asv.3046	
+asv.8181	
+asv.10175	
+asv.10214	
+asv.9797	
+asv.9805	
+asv.3194	
+asv.2642	
+asv.2774	
+asv.9453	
+asv.10545	
+asv.9602	
+asv.9810	
+asv.10626	
+asv.9782	
+asv.10178	
+asv.3282	
+asv.1248	
+asv.9665	
+asv.10619	
+asv.10494	
+asv.9184	
+asv.7560	
+asv.10184	
+asv.7939	
+asv.3570	
+asv.2684	
+asv.7466	
+asv.3532	
+asv.3963	
+asv.4613	
+asv.3937	
+asv.4717	
+asv.3063	
+asv.7982	
+asv.9778	
+asv.10069	
+asv.8999	
+asv.6602	
+asv.9754	
+asv.10330	
+asv.9763	
+asv.3495	
+asv.4441	
+asv.5838	
+asv.3288	
+asv.3199	
+asv.2536	
+asv.10595	
+asv.2411	
+asv.4772	
+asv.9440	
+asv.2815	
+asv.3006	
+asv.4373	
+asv.2866	
+asv.10547	
+asv.2835	
+asv.9752	
+asv.9910	
+asv.2890	
+asv.3427	
+asv.4667	
+asv.10245	
+asv.9022	
+asv.3113	
+asv.2232	
+asv.9177	
+asv.9151	
+asv.3721	
+asv.9777	
+asv.10326	
+asv.2229	
+asv.4445	
+asv.4123	
+asv.10231	
+asv.3324	
+asv.4358	
+asv.9457	
+asv.8671	
+asv.2442	
+asv.9452	
+asv.2222	
+asv.9757	
+asv.9317	
+asv.10006	
+asv.2758	
+asv.9784	
+asv.3222	
+asv.9987	
+asv.5801	
+asv.8501	
+asv.9824	
+asv.4473	
+asv.3348	
+asv.2879	
+asv.9812	
+asv.2453	
+asv.10553	
+asv.9908	
+asv.10498	
+asv.9913	
+asv.9446	
+asv.10206	
+asv.1361	
+asv.2743	
+asv.3269	
+asv.3110	
+asv.3332	
+asv.2459	
+asv.7050	
+asv.9740	
+asv.4232	
+asv.9739	
+asv.10018	
+asv.7912	
+asv.9817	
+asv.8792	
+asv.6601	
+asv.8490	
+asv.10621	
+asv.8844	
+asv.2125	
+asv.8410	
+asv.3061	
+asv.3544	
+asv.9419	
+asv.8483	
+asv.6380	
+asv.10455	
+asv.9664	
+asv.10143	
+asv.5391	
+asv.9921	
+asv.4106	
+asv.4024	
+asv.9660	
+asv.9094	
+asv.10015	
+asv.6968	
+asv.9199	
+asv.4721	
+asv.3045	
+asv.8122	
+asv.4208	
+asv.6878	
+asv.9425	
+asv.2597	
+asv.2995	
+asv.2618	
+asv.10188	
+asv.10193	
+asv.9748	
+asv.9172	
+asv.5986	
+asv.9427	
+asv.7226	
+asv.5825	
+asv.8238	
+asv.9833	
+asv.10486	
+asv.3193	
+asv.3208	
+asv.9191	
+asv.5032	
+asv.2550	
+asv.2480	
+asv.4246	
+asv.2834	
+asv.5156	
+asv.3372	
+asv.5746	
+asv.9835	
+asv.5574	
+asv.8577	
+asv.10030	
+asv.2625	
+asv.9154	
+asv.2521	
+asv.2922	
+asv.9792	
+asv.9818	
+asv.10546	
+asv.10363	
+asv.2762	
+asv.9925	
+asv.5782	
+asv.6958	
+asv.8865	
+asv.2708	
+asv.10229	
+asv.9028	
+asv.9424	
+asv.5660	
+asv.8651	
+asv.9974	
+asv.8693	
+asv.8206	
+asv.3489	
+asv.9988	
+asv.10247	
+asv.9418	
+asv.7117	
+asv.7686	
+asv.10456	
+asv.3157	
+asv.4575	
+asv.10062	
+asv.6964	
+asv.10539	
+asv.10235	
+asv.9420	
+asv.3040	
+asv.2704	
+asv.3271	
+asv.6758	
+asv.2384	
+asv.9294	
+asv.3220	
+asv.9468	
+asv.3844	
+asv.10475	
+asv.10402	
+asv.9742	
+asv.8284	
+asv.3267	
+asv.5475	
+asv.10610	
+asv.2449	
+asv.3433	
+asv.10073	
+asv.6366	
+asv.2026	
+asv.3221	
+asv.2063	
+asv.9162	
+asv.9584	
+asv.9088	
+asv.9932	
+asv.5141	
+asv.9919	
+asv.3882	
+asv.4659	
+asv.9607	
+asv.3666	
+asv.3494	
+asv.2959	
+asv.7498	
+asv.2470	
+asv.7780	
+asv.8903	
+asv.4905	
+asv.8869	
+asv.10376	
+asv.10241	
+asv.9466	
+asv.9627	
+asv.3165	
+asv.9430	
+asv.7687	
+asv.9756	
+asv.2818	
+asv.3244	
+asv.9741	
+asv.4656	
+asv.10410	
+asv.9396	
+asv.9397	
+asv.9776	
+asv.9765	
+asv.3644	
+asv.9442	
+asv.7131	
+asv.5484	
+asv.10177	
+asv.6584	
+asv.9148	
+asv.3146	
+asv.5438	
+asv.9437	
+asv.10534	
+asv.10338	
+asv.9066	
+asv.6669	
+asv.10194	
+asv.9156	
+asv.10484	
+asv.2205	
+asv.2094	
+asv.5325	
+asv.4584	
+asv.4209	
+asv.2573	
+asv.9794	
+asv.6194	
+asv.2990	
+asv.8697	
+asv.10542	
+asv.9747	
+asv.2883	
+asv.3128	
+asv.9982	
+asv.3289	
+asv.4840	
+asv.2734	
+asv.9160	
+asv.4632	
+asv.3210	
+asv.6143	
+asv.8160	
+asv.2935	
+asv.4504	
+asv.9738	
+asv.9645	
+asv.3794	
+asv.9309	
+asv.5070	
+asv.10080	
+asv.2958	
+asv.3592	
+asv.9480	
+asv.9633	
+asv.10375	
+asv.4084	
+asv.3272	
+asv.6644	
+asv.8583	
+asv.9819	
+asv.2128	
+asv.3490	
+asv.2789	
+asv.9799	
+asv.5491	
+asv.9352	
+asv.5258	
+asv.10593	
+asv.5117	
+asv.8846	
+asv.8675	
+asv.3018	
+asv.9004	
+asv.8493	
+asv.9188	
+asv.3714	
+asv.3812	
+asv.8563	
+asv.4806	
+asv.8429	
+asv.8180	
+asv.4818	
+asv.2014	
+asv.2651	
+asv.3379	
+asv.3119	
+asv.8914	
+asv.2829	
+asv.2764	
+asv.10182	
+asv.3294	
+asv.9663	
+asv.6237	
+asv.10205	
+asv.10541	
+asv.10185	
+asv.10479	
+asv.10002	
+asv.8285	
+asv.3153	
+asv.8881	
+asv.5312	
+asv.3133	
+asv.3354	
+asv.4474	
+asv.8804	
+asv.3650	
+asv.9067	
+asv.6818	
+asv.3596	
+asv.3590	
+asv.2432	
+asv.4477	
+asv.1404	
+asv.2392	
+asv.10584	
+asv.3093	
+asv.10005	
+asv.8599	
+asv.5279	
+asv.4736	
+asv.10538	
+asv.1810	
+asv.4649	
+asv.2679	
+asv.10196	
+asv.9793	
+asv.9744	
+asv.9773	
+asv.9775	
+asv.5420	
+asv.7994	
+asv.10028	
+asv.10480	
+asv.3341	
+asv.9998	
+asv.9392	
+asv.8676	
+asv.9313	
+asv.6649	
+asv.9070	
+asv.10340	
+asv.9769	
+asv.10540	
+asv.10220	
+asv.10192	
+asv.9809	
+asv.2658	
+asv.10227	
+asv.3002	
+asv.9301	
+asv.7807	
+asv.4101	
+asv.9579	
+asv.9601	
+asv.9157	
+asv.10250	
+asv.6467	
+asv.10135	
+asv.4640	
+asv.9798	
+asv.3804	
+asv.2448	
+asv.2695	
+asv.3190	
+asv.6236	
+asv.10473	
+asv.2932	
+asv.2507	
+asv.7838	
+asv.10127	
+asv.2891	
+asv.3303	
+asv.3004	
+asv.7215	
+asv.9463	
+asv.9152	
+asv.10017	
+asv.2170	
+asv.10201	
+asv.2158	
+asv.3761	
+asv.9785	
+asv.2608	
+asv.10490	
+asv.9598	
+asv.3141	
+asv.7933	
+asv.4242	
+asv.10421	
+asv.2126	
+asv.10544	
+asv.7995	
+asv.3112	
+asv.2667	
+asv.2823	
+asv.3158	
+asv.8664	
+asv.2892	
+asv.9758	
+asv.3001	
+asv.9751	
+asv.2646	
+asv.8743	
+asv.3565	
+asv.2964	
+asv.9423	
+asv.2451	
+asv.2779	
+asv.3322	
+asv.3533	
+asv.3352	
+asv.9149	
+asv.9351	
+asv.2806	
+asv.3718	
+asv.9153	
+asv.10543	
+asv.2264	
+asv.8767	
+asv.2717	
+asv.5661	
+asv.3297	
+asv.3408	
+asv.2578	
+asv.9299	
+asv.9803	
+asv.8769	
+asv.9549	
+asv.5261	
+asv.2726	
+asv.2792	
+asv.3464	
+asv.9745	
+asv.10467	
+asv.4570	
+asv.8762	
+asv.3776	
+asv.4888	
+asv.3171	
+asv.8342	
+asv.10200	
+asv.9129	
+asv.8409	
+asv.3248	
+asv.9034	
+asv.8067	
+asv.3192	
+asv.2759	
+asv.2911	
+asv.4278	
+asv.3254	
+asv.3655	
+asv.9543	
+asv.3312	
+asv.6532	
+asv.3615	
+asv.3298	
+asv.10615	
+asv.9971	
+asv.9829	
+asv.7609	
+asv.9761	
+asv.5729	
+asv.3260	
+asv.10454	
+asv.4906	
+asv.10123	
+asv.10357	
+asv.5337	
+asv.9155	
+asv.10204	
+asv.10239	
+asv.3734	
+asv.8279	
+asv.10071	
+asv.9789	
+asv.2318	
+asv.3733	
+asv.5667	
+asv.8320	
+asv.10323	
+asv.7391	
+asv.9983	
+asv.9760	
+asv.9447	
+asv.3669	
+asv.2821	
+asv.9646	
+asv.8278	
+asv.4160	
+asv.3299	
+asv.9175	
+asv.2739	
+asv.2827	
+asv.3995	
+asv.3177	
+asv.3513	
+asv.8668	
+asv.10001	
+asv.6074	
+asv.10190	
+asv.4611	
+asv.4571	
+asv.2888	
+asv.2813	
+asv.7825	
+asv.9161	
+asv.10332	
+asv.9973	
+asv.9354	
