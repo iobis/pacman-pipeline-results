@@ -1,8 +1,12 @@
-# Ignore everything in this directory
-*
-# Except this file
+/*
 !.gitignore
-!./eDNAexpeditions/runs/Trial_allSamples_MiFish-UE
-!./eDNAexpeditions_batch1_samples/runs/*/05-dwca
-!./eDNAexpeditions_batch1_samples/runs/*/04-taxonomy/rdp_vsearch_results
+!/eDNAexpeditions_batch1_samples/
+/eDNAexpeditions_batch1_samples/*
+!/eDNAexpeditions_batch1_samples/runs/
+/eDNAexpeditions_batch1_samples/runs/*/02-cutadapt
+/eDNAexpeditions_batch1_samples/runs/*/03-dada2
+/eDNAexpeditions_batch1_samples/runs/*/04-taxonomy/vsearch
+/eDNAexpeditions_batch1_samples/runs/*/04-taxonomy/rdp
+/eDNAexpeditions_batch1_samples/runs/*/04-taxonomy/unknown*
+/eDNAexpeditions_batch1_samples/runs/*/06-report
 
