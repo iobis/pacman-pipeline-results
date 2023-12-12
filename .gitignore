@@ -6,6 +6,7 @@
 !/eDNAexpeditions_batch1_samples/runs/
 /eDNAexpeditions_batch1_samples/runs/*/02-cutadapt
 /eDNAexpeditions_batch1_samples/runs/*/03-dada2
+/eDNAexpeditions_batch1_samples/runs/*/04-taxonomy/blast
 /eDNAexpeditions_batch1_samples/runs/*/04-taxonomy/vsearch
 !/eDNAexpeditions_batch1_samples/runs/*/04-taxonomy/vsearch/
 /eDNAexpeditions_batch1_samples/runs/*/04-taxonomy/vsearch/*
